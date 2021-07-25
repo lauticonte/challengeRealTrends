@@ -14,12 +14,13 @@ Se debe crear una aplicación de votación realtime.
 * Cada usuario puede votar una vez, si vota más de una, el voto se transfiere.
 
 ## Definiciones técnicas
-* La aplicación debe estar publicada y debe ser accesible mediante un link.
 * El código de la aplicación debe estar subida a un repositorio de público acceso.
 
 ## Puntos extra
 * El usuario puede seleccionar los productos desde el cliente viendo un modal con productos de Mercado Libre.
 * La votación se puede pausar, reanudar y reiniciar desde el cliente.
+
+![Spec](./spec.png)
 
 ## Correr el proyecto
 ```bash
